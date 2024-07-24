@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tran Nhan aka @chuongphong12
-- 🌱 I’m currently learning Angular, Ionic and Flutter
+- 🌱 Front-end developer with main React and intersting in cross-plaform language like Flutter
 - 📫 Contact me via email chuongphong12@gmail.com or phone +84772714016
 
 <!---
